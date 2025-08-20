@@ -9,6 +9,7 @@ Sou estudande de Ciencia da Computação, formado como tecnico em Eletrotécnica
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
 </div>
 <br/>
 
